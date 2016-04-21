@@ -1,6 +1,6 @@
 {
   "name": "The First Page for Testing",
   "tagline": "Move is The First Step to Success",
-  "body": "# lifeng14.github.io\r\n\r\n## lifeng14.github.io\r\n\r\n> lifeng14.github.io\r\n\r\n1. test1\r\n2. tes\r\n\r\n`import sys\r\ndef func(){\r\n\r\n}\r\n`\r\n",
+  "body": "# lifeng14.github.io\r\n\r\n## lifeng14.github.io\r\n\r\n> lifeng14.github.io\r\n\r\n1. test1\r\n2. tes\r\n\r\n`python\r\nimport sys\r\ndef func(){\r\n\r\n}\r\n`\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
