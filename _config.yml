@@ -1,0 +1,8 @@
+title: The First Page for Testing
+description: Move is The First Step to Success
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
