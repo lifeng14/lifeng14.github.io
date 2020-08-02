@@ -1,1 +1,1 @@
-  Pages for my life!
+Welcome to my page!
